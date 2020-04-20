@@ -1,0 +1,2 @@
+This v1.0 PCB can be interfaced with Arduino using the custom library 'IOexpander' from here :
+https://github.com/Arvind595/Arduino-custom_libraries-/tree/master/IOexpander 
